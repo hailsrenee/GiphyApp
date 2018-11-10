@@ -1,4 +1,4 @@
-$( document ).ready(function() {
+$(document).ready(function() {
     var topics = ["Smug", "Laugh", "Pout", "Cry", "Shock", "Sweat", "Crazy", "Angry", "Ouch", "Tired", "Weird", "Yell", "Eye Roll"];
     function createButtons(){
         $("#gifButtonsView").empty();
